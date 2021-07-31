@@ -6,9 +6,14 @@ The goal of this project was to simulate a sitatuion/problem where a DBMS could 
 The project was made in several steps.
 
 1.The requirements analysis.
+
 2.Entity relationship model
+
 3.Relational model
+
 4.SQL
+
 5.APEX
+
 6.Dokumentation
 
